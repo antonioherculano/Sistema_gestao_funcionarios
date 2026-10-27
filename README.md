@@ -56,7 +56,7 @@ rejeitar valores como `nan` e infinito.
 
 ## Como executar
 
-O projeto utiliza Python 3.
+O projeto utiliza Python 3.15.2
 
 Para executar os exemplos de cadastro e validação:
 
